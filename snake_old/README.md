@@ -1,4 +1,5 @@
-# Practice Repo
+# Snake game in canvas way
 
-This is only a repo that I made to practice react framework.
-Not everything will be optimized nor useful. But hope to have some fun!
+Having done some p5.js and canvas rendering, this is an attempt to recreate the snake game.
+
+I am using the useState from react to re-render everything while a setInterval is used to the change the state every X ms.
